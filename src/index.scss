@@ -3,7 +3,8 @@ body {
     background-image: url('./assets/logo-1.png');
     background-position: center;
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: auto;
+    background-attachment: fixed;
 }
 
 main {

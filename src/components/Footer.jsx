@@ -5,6 +5,8 @@ const Footer = () => {
         'https://twitter.com/BitcoinNewsCom/status/1747416254602686527/video/1',
         'https://twitter.com/BitcoinNewsCom/status/1747416254602686527/video/2',
         'https://cryptonomist.ch/2024/01/18/bitcoin-mining-hashrate-crollo-texas/',
+        'https://valutevirtuali.com/bitcoin-oro-digitale-perche-analisi-blackrock/',
+        'https://www.cnbc.com/2021/12/04/bitcoin-miners-say-theyre-fixing-texas-electric-grid-ted-cruz-agrees.html'
     ]
 
     return (

@@ -1,10 +1,15 @@
 body {
-    background-color: rgb(194, 198, 201);
+    background-color: rgba(194, 198, 201);
+    background-image: url('./assets/logo-1.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
 }
 
 main {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
 }
 
 header,

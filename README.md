@@ -11,4 +11,4 @@ Step per creare il progetto:
 4) Creiamo una cartella components nella quale inseriremo i nostri componenti
 
 **BONUS**
-- Invece di utilizzare un unico file index.css separiamo lo style utilizzando i CSS Modules
+- Invece di utilizzare un unico file index.css separiamo lo style utilizzando i CSS Modules.

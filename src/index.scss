@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(194, 198, 201);
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+header,
+footer {
+    background-color: burlywood;
+}
+
+footer {
+    padding: 25px 50px;
+
+    li {
+        list-style-type: none;
+
+        a {
+            color: black;
+        }
+    }
+}
